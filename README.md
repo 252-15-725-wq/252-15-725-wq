@@ -9,11 +9,11 @@
 ---
 
 ### 🛡️ Professional Summary
-I am a Computer Science and Engineering student with a strong focus on **Cybersecurity** and **Information Security**. I am passionate about understanding system vulnerabilities, mastering the Linux environment, and solving complex problems through **Data Structures** and **C programming**.
+I am a Computer Science and Engineering student with a strong focus on **Cybersecurity** and **Information Security**. I am passionate about understanding system vulnerabilities, mastering the Linux environment and solving complex problems through **Data Structures** and **C programming**.
 
 - 🏆 **CTF Competitor:** Proudly secured **2nd place** in a recent Capture The Flag competition.
 - 🛠️ **System Environment:** Daily driver is an **ASUS Vivobook Gaming V16** running **Linux**.
-- 🔍 **Current Research:** Deep diving into **Web Exploitation** and **Computer Networking**.
+- 🔍 **Current Research:** Deep diving into **Web Exploitation** and **OSINT**.
 
 ---
 
